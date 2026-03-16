@@ -1,44 +1,17 @@
+# Hi, I'm Pato 🦆
 
-# Hi, I'm Pato! 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patricio-pina/) 
 
-Welcome to my GitHub! I'm a passionate Full-stack Web Developer keen on demonstrating my coding abilities and showcasing projects that highlight my expertise. I'm actively seeking challenging Software Developer roles, particularly in full-stack positions, where I can contribute to innovative teams.
+# 💻 Tech Stack:
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+[![Patopm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patopm)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Patopm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Patopm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patopm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=Patopm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-My work primarily focuses on web development, driven by a commitment to quick learning and adaptability, excellent communication skills, and a proactive approach. As an experienced full-stack developer and team leader, I'm eager to bring my diverse skill set and leadership qualities to your organization.
-## 🚀 About Me
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-As a young and ambitious developer, I bring a fresh perspective coupled with a strong foundation in logical thinking and problem-solving. My ability to learn and adapt quickly allows me to rapidly grasp new concepts and technologies, ensuring I'm always at the forefront of development.
-
-I am deeply passionate about web development, with a particular interest in optimizing performance, enhancing user/developer experience, and building scalable applications. My long-term goal is to contribute significantly to impactful projects that drive positive change, whether for a company or on a broader scale. Beyond coding, my background as a soccer player has honed my leadership abilities and my capacity to thrive and lead in challenging situations.
-
-## 💻 Skills
-
-Here's a breakdown of my technical proficiencies:
-
-Languages:
-
-    Proficient: TypeScript, JavaScript, Elixir, Python
-    Learning: Java
-
-Frameworks & Libraries:
-
-    Proficient: Angular, Phoenix, Django
-    Learning: React, Spring
-
-Databases:
-
-    Oracle, PostgreSQL, SQLite, MySQL
-
-Tools & Platforms:
-
-    Proficient: Git, GitHub (GitHub Actions), Cursor
-    Learning: Docker
-
-Methodologies & Practices:
-
-    Scrum
-    DevOps (experience with automated environments like Production, Staging, and Development)
-
-Key areas I'm proud to emphasize include my strong command of Django, Elixir, Git, and GitHub, along with robust experience in Angular.
-## 📈 Stats
-
-[![Patopm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patopm)](https://github.com/anuraghazra/github-readme-stats)
