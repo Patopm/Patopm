@@ -1,5 +1,20 @@
 # Hi, I'm Pato 🦆
 
+Passionate about creating solutions to my day-to-day problems and building scalable web apps.
+
+## What I'm Working On
+
+Building projects for my startup and developing personal tools to optimize my day-to-day workflow. Performance-obsessed with clean code and best practices.
+
+## Dev Environment
+
+```text
+Editor     : Neovim + Tmux
+OS         : MacOS & Omarchy
+Workflow   : Keyboard-centric, terminal-based
+Aesthetic  : Catppucchin Mocha
+```
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patricio-pina/) 
 
