@@ -41,8 +41,4 @@ Methodologies & Practices:
 Key areas I'm proud to emphasize include my strong command of Django, Elixir, Git, and GitHub, along with robust experience in Angular.
 ## 📈 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Patopm&theme=sunset-gradient&hide_border=true&border_radius=11.4&short_numbers=true)](https://git.io/streak-stats)
-
-![Patopmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patopm&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered)
-
 [![Patopm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patopm)](https://github.com/anuraghazra/github-readme-stats)
